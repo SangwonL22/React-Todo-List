@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# React-Todo-List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Publish Link
 
-## Available Scripts
+https://radiant-cucurucho-01e1a6.netlify.app/
 
-In the project directory, you can run:
+## Selected ALL && Completed && Active sections
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/5cefa1d7-6c4a-4127-8875-45617bae837e" style="width: 400px" /><br/>
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/9164e751-df9f-477a-bfcb-4efa1b1be9f3" style="width: 400px" /><br/>
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/bcf41ad5-60d2-4dca-a6fe-b6fe280aea27" style="width: 400px" /><br/>
 
-### `yarn start`
+## DarkMode
+- DarkMode button changes color when hovering <br/>
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/d0a6c812-f4b4-4fd2-b8f6-ecd3fd1008fa" style="width: 400px" /><br/>
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/f0bf1e72-d649-488a-8f35-5be1321655c5" style="width: 400px" /><br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Changes color checkbox && scroll-bar
+<img src="https://github.com/SangwonL22/React-Todo-List/assets/139116831/3b59e86b-ae3d-4674-bd82-0877038c6bff" style="width: 400px" />
